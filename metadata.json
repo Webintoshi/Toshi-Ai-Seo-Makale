@@ -1,0 +1,5 @@
+{
+  "name": "SEO Content Architect",
+  "description": "A React-based SEO planning tool that leverages Gemini to generate keyword strategies, audience insights, and detailed content briefs.",
+  "requestFramePermissions": []
+}
